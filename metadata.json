@@ -1,0 +1,6 @@
+{
+  "name": "Selector Zona Abonos Ibercaja Estadio",
+  "description": "Una aplicación web para ayudar a un grupo de aficionados a decidir qué zona de abono de temporada comprar para el Real Zaragoza en el Ibercaja Estadio. Utiliza el método de conteo de Borda. Los usuarios introducen los votantes, cada uno clasifica sus 6 zonas preferidas, y la aplicación calcula y muestra la opción más popular, incluyendo el detalle del voto de cada persona. Se incluye una imagen del plano del estadio para consulta.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
